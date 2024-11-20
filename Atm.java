@@ -7,7 +7,7 @@ public class Atm {
 
     public Atm() {
         // Constructor to initialize balance
-        this.balance = 1000; // Initial balance, can be adjusted as needed
+        this.balance = 2000; // Initial balance, can be adjusted as needed
     }
 
     public void checkPin() {
